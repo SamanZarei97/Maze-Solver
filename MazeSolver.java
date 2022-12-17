@@ -1,7 +1,5 @@
 /**
  * Name : Saman Zarei
- * PID: A16613221
- * Email: s1zarei@ucsd.edu
  * This class provide a path for the maze to solve it by
  * checking the starting square as the first element, checking its
  * neighbor based on N,S,E,W
