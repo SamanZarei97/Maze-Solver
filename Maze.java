@@ -1,7 +1,5 @@
 /**
  * Name : Saman Zarei
- * PID: A16613221
- * Email : S1zarei@ucsd.edu
  */
 
 import java.util.ArrayList;
