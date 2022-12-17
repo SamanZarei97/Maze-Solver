@@ -1,7 +1,5 @@
 /**
  * Name: Saman Zarei
- * PID: A16613221
- * Email: s1zarei@ucsd.edu
  * This file is for testing our program to make sure
  * for the correctness of implementation.
  */
