@@ -1,7 +1,5 @@
 /**
  * Name: Saman Zarei
- * PID: A16613221
- * Email: s1zarei@ucsd.edu
  * This file will implement the work list
  * in 2 different ways: Queue and Stack
  */
