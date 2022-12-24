@@ -1,11 +1,9 @@
 /**
- * Name : Saman Zarei
  * This class provide a path for the maze to solve it by
  * checking the starting square as the first element, checking its
  * neighbor based on N,S,E,W
  * We will do the same thing for all the neighbors of starting point
  * until we find a path.
- * @author Saman Zarei
  *
  */
 
