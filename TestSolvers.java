@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * This file is for testing our program to make sure
  * for the correctness of implementation.
  */
@@ -17,7 +16,6 @@ import static org.junit.Assert.*;
  * This class is for testing the different part of program
  * by testing it against some chaff and wheat test to make sure
  * about the correctness of the program.
- * @author Saman Zarei
  *
  */
 public class TestSolvers {
