@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * This file will implement the work list
  * in 2 different ways: Queue and Stack
  */
@@ -8,7 +7,6 @@ import java.util.*;
 
 /**
  * This class implements the work list by the stack ways
- * @author Saman Zarei
  *
  */
 class StackWorklist implements SearchWorklist {
